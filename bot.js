@@ -1,4 +1,4 @@
-let keywords = ["Hotel W Miami", "Room choices in W Miami", "South Beach W Hotel"];
+let keywords = ["Hotel W Miami", "Rooms in W Miami", "South Beach W Hotel"];
 let keyword = keywords[getRandom(0, keywords.length)];
 let links = document.links;
 let googleInput = document.getElementsByName("q")[0];
