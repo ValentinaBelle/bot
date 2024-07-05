@@ -1,5 +1,5 @@
 # bot
-It is a simple bot who:
+It is a simple bot that does these things:
 1. Stores keywords in the array;
 2. Can randomly get phrases;
 3. Puts words in the search bar and opens a page;
